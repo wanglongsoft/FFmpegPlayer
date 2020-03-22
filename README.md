@@ -11,5 +11,5 @@ NDK版本：**r17c**
 * 支持播放视频（音视频已同步）
 * rtmp直播流(比如：湖南卫视，广西卫视)
 #### 运行效果
-![image](https://github.com/wanglongsoft/FFmpegPlayer/tree/master/images/video.png)
-![image](https://github.com/wanglongsoft/FFmpegPlayer/tree/master/images/rtmp.png)
+![本地视频](https://github.com/wanglongsoft/FFmpegPlayer/tree/master/images/video.png)
+![广西卫视](https://github.com/wanglongsoft/FFmpegPlayer/tree/master/images/rtmp.png)
