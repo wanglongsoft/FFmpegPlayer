@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FFmpegPlayer</string>
+    <string name="play_video">Play Video</string>
+    <string name="play_pause">暂停播放按钮</string>
+</resources>
